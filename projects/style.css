@@ -1,0 +1,38 @@
+h1{
+    color: rgb(49, 209, 0);
+    font-weight: bold;
+    font-stretch: extra-condensed;
+    font-style: italic;
+}
+body{
+    overflow: hidden;
+}
+*{
+    background-color: #058eb8;
+    text-align: center;
+}
+h2{
+    font-size: x-large;
+    font-variant: normal;
+    color: darkblue;
+    font-style: oblique
+}
+h3{
+    color: darkmagenta;
+    column-count: inherit;
+    font-style: oblique;
+    overflow-y: visibles;
+    font-size: x-large;
+}
+body{
+    overflow: inline;
+}
+li{
+    text-align: center;
+}
+f-right{
+    float: right;
+}
+f-left{
+float: left;
+}
