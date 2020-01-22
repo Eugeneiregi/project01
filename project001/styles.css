@@ -1,0 +1,67 @@
+*{
+    text-align: center;
+    padding: 0%;
+    background-color: lightslategray;
+}
+body{
+    overflow: inline;
+    
+}
+h1{
+font-size:xx-large;
+color: yellow;
+text-decoration: underline;
+font-style: italic;
+font-weight: bolder;
+flex-grow: inherit;
+}
+h2{
+    font-stretch: inherit;
+    color: magenta;
+    text-shadow: orchid;
+    font-style: inherit;
+    overflow: hidden;
+    font-size: x-large;
+}
+h3{
+    border-left-color: lemonchiffon;
+    color: rebeccapurple;
+    font-style: oblique;
+    font-size: xx-large;
+    overflow: visible;
+}
+img{
+    border-radius: 2px;
+}
+.garbage{
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+table, td, th{
+    padding: 50px;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+table{
+    width: 400px;
+}
+nav ul li{
+    list-style-type: none;
+    width: 100px;
+    float: right;
+    font-size: 20px;
+}
+#garbage{
+float: left;
+    padding: 2px;
+}
+.class{
+    flex-wrap: wrap;
+    float: right;
+}
+#Our{
+    float: left;
+    padding: 2px;
+    text-align: center;
+}

@@ -1,0 +1,122 @@
+table,
+td,
+th {
+    padding: 5px;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+/*  */
+/* #overlay {
+    display: flex;
+    justify-content: space-between;
+} */
+
+header{
+    background-color: green;
+}
+#ovelay li {
+    display: inline;
+    padding-right: 10px;
+}
+
+#personal {
+    display: flex;
+    justify-content: space-between;
+}
+
+#personal div {
+    padding-right: 10px;
+}
+
+nav ul li {
+    list-style-type: none;
+    width: 100px;
+    float: right;
+    font-size: 10px;
+
+    
+}
+nav a{
+    list-style: none;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+table {
+    width: 100%;
+    color: rgb(18, 20, 18);
+}
+
+h1 {
+    font-size: 50px;
+    color:green;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bolder;
+    flex-grow: inherit;
+    text-transform: uppercase;
+}
+
+#example {
+    display: flex;
+    justify-content: space-between;
+    float: left;
+}
+
+h2 {
+    font-stretch: inherit;
+    color: magenta;
+    text-shadow: orchid;
+    font-style: inherit;
+    overflow: hidden;
+    font-size: 30px;
+
+}
+
+*{
+    background-color: honeydew;
+     text-align: center;
+}
+header{
+    color: indigo;
+}
+h4{
+    font: outline;
+    color: magenta;
+    text-align: center;
+    justify-content: center;
+    font-size: xx-large;
+    font-style: italic;
+    flex-wrap: wrap;
+}
+.paragraph{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#back{
+    justify-content: space-between;
+    text-align: column;
+    flex-direction: column;
+    color: lightseagreen;
+}
+    table th{
+        background-color: mediumblue;
+        text-align: center;
+        font-size: 30px;
+
+    }
+
+    ol li {
+        text-align:center;
+        justify-content: center;
+    }
+    footer{
+        background-color: green;
+        height: 70px;
+        padding-top: 50px;
+    }
+    #iregi{
+        float: left;
+    }
